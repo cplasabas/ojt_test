@@ -1,4 +1,5 @@
 <?php
-echo "tests";
-echo "test";
+
+echo "Hello!";
+echo "Yul";
 ?>
